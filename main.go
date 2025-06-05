@@ -10,7 +10,7 @@ import (
 
 func main() {
 	if len(os.Args) < 2 {
-		fmt.Println("Usage: gobat <file>")
+		fmt.Println("Usage: ./go-bat <file>")
 		os.Exit(1)
 	}
 	file, err := os.Open(os.Args[1])
