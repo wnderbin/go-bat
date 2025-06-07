@@ -19,17 +19,13 @@ A clone of cat(1) with wings. Ported to Golang.
 * **Languages:** Go | Golang 1.24.2 
 * **Tested on:** Ubuntu 24.04
 
-
 ## Features
 ### Syntax highlighting
 GoBat supports syntax highlighting for many programming and markup languages.
-
 ![](images/markdown.png)
-
 ![](images/python3.png)
 
 ## Installation and launch
-
 ```
 git clone https://github.com/wnderbin/go-bat # clone the repository and go to the project directory
 cd go-bat
