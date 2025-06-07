@@ -26,3 +26,10 @@ GoBat supports syntax highlighting for many programming and markup languages.
 ![](images/python3.png)
 
 ## Installation and launch
+```
+git clone https://github.com/wnderbin/go-bat # clone the repository and go to the project directory
+cd go-bat
+go build # compilation of the project
+./go-bat # instructions for use
+./go-bat README.md # view README.md file
+```
