@@ -14,15 +14,16 @@ A clone of cat(1) with wings. Ported to Golang.
 🔹 [Original readme](https://github.com/sharkdp/bat/blob/master/README.md)
 
 ## Project version and status
-* **Current version:** v0.9.0 (beta) \
-* **Project status:** in development... \
-* **Languages:** Go | Golang 1.24.2 \
+* **Current version:** v0.9.0 (beta) 
+* **Project status:** in development... 
+* **Languages:** Go | Golang 1.24.2 
 * **Tested on:** Ubuntu 24.04
 
 ## Features
 ### Syntax highlighting
 GoBat supports syntax highlighting for many programming and markup languages.
 ![](images/markdown.png)
+
 ![](images/python3.png)
 
 ## Installation and launch
