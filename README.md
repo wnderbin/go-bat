@@ -23,6 +23,7 @@ A clone of cat(1) with wings. Ported to Golang.
 ### Syntax highlighting
 GoBat supports syntax highlighting for many programming and markup languages.
 ![](images/markdown.png)
+
 ![](images/python3.png)
 
 ## Installation and launch
